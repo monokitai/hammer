@@ -8,7 +8,7 @@ int main() {
 
     Tins::NetworkInterface iface = Tins::NetworkInterface::default_interface();
 
-    Tins::RawPDU *message = new Tins::RawPDU("Monster Energy <3");
+    Tins::RawPDU *message = new Tins::RawPDU("Kanon");
     Tins::TCP *tcp = new Tins::TCP();
     Tins::IP *ip = new Tins::IP();
     Tins::SNAP *snap = new Tins::SNAP();
