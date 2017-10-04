@@ -1,7 +1,7 @@
 # hammer
 wifi jammer
 
-# compilation
+## compile
 you can compile the source code using libtins
 
 
